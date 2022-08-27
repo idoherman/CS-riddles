@@ -1,5 +1,7 @@
 .idea/
 
+cmake-build-debug/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
